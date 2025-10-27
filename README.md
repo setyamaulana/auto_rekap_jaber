@@ -1,7 +1,6 @@
 # 🧾 Jabber Log Rekap Bot
 
 Bot Python otomatis untuk **merekap data transaksi dari log Jabber (Pidgin)** ke dalam file **Excel/CSV**.  
-Dirancang agar bekerja sepenuhnya otomatis tanpa perlu library tambahan seperti `pandas`.
 
 ---
 
