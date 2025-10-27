@@ -1,0 +1,3 @@
+ctrl+a pidgin
+ctrl+c pidgin
+paste disini
