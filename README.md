@@ -26,7 +26,7 @@ Bot Python otomatis untuk **merekap data transaksi dari log Jabber (Pidgin)** ke
  Nama file bebas, contoh: `jaber.txt` atau `loghariini.txt`.  
 3️⃣ **Jalankan script**  
    ```bash
-   python rekap_otomatis.py
+   python auto_rekap_jaber.py
    ```
 
 4️⃣ Bot akan otomatis memproses file .txt pertama di folder, lalu menghasilkan file .csv
