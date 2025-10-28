@@ -27,6 +27,8 @@ Bot Python otomatis untuk **merekap data transaksi dari log Jabber (Pidgin)** ke
 3️⃣ **Jalankan script**  
    ```bash
    python rekap_otomatis.py
+   ```
+
 4️⃣ Bot akan otomatis memproses file .txt pertama di folder, lalu menghasilkan file .csv
 Contoh: rekap_sukses_2025-10-28.csv
 
